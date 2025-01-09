@@ -1,4 +1,4 @@
-package Practica;
+package Practica.Estruturas_Control_y_Manejo_Lambda;
 
 import java.util.HashMap;
 import java.util.function.Supplier;

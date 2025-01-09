@@ -1,4 +1,4 @@
-package Practica;
+package Practica.Estruturas_Control_y_Manejo_Lambda;
 
 import java.util.ArrayList;
 import java.util.List;

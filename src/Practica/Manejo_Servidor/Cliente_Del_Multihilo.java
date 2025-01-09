@@ -1,4 +1,4 @@
-package Practica;
+package Practica.Manejo_Servidor;
 
 import java.io.IOException;
 import java.io.PrintWriter;
